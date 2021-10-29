@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Project Portfolio",
+    "description": "Create a project portfolio that showcases your projects and skills."
+  },
+  {
+    "id": 2,
+    "name": "Resume",
+    "description": "Create a digital resume that lists your skills and experience."
+  },
+  {
+    "id": 3,
+    "name": "Blog",
+    "description": "Create a blog that you can share with others."
+  }
+]
